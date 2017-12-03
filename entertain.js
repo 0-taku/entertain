@@ -17,3 +17,4 @@
     $('.slick-active').find('.clash-card img').fadeIn(1000);
   });
   
+})();
